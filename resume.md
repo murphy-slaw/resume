@@ -1,13 +1,22 @@
 # Kevin Murphy
 
-958 39th Street  
-Oakland, CA 94608  
+1844 San Luis Ranch Drive
+San Luis Obispo, CA 94605  
 kevin@eorbit.net  
 (650)-307-2910  
 
 An experienced systems engineering professional with expertise in deploying high-performance web applications and services.
 
 ## Experience
+
+### Senior Site Reliability Engineer, Disaster Readiness
+Dropbox
+May 2019 - April 2023
+* Worked with teams throughout the company to identify and mitigate availability risks.
+* Built automated tooling and dashboards to identify single-homed services througout the enterprise.
+* Coordinated service migrations with diverse technical teams to enable datacenter migrations and retirements.
+* Developed service managment tooling for Dropbox's in-house platforms in Go and Python.
+* Mentored interns and junior engineers in SRE and DR concepts.
 
 ### Senior Software Engineer, Production Engineering
 Duo, Inc  
